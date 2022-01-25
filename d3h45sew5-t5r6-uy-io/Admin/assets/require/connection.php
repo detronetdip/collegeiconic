@@ -1,11 +1,11 @@
 <?php
 session_start();
 
-$con= mysqli_connect('localhost','u686424295_adminofadb','r]UJB3C&&oT9');
-mysqli_select_db($con,'u686424295_ciconic');
+// $con= mysqli_connect('localhost','u686424295_adminofadb','r]UJB3C&&oT9');
+// mysqli_select_db($con,'u686424295_ciconic');
 
-// $con= mysqli_connect('localhost','root','');
-// mysqli_select_db($con,'ciconic');
+$con= mysqli_connect('localhost','root','');
+mysqli_select_db($con,'ciconic');
 
 function get_safe_value($con,$str){
 	if($str!=''){

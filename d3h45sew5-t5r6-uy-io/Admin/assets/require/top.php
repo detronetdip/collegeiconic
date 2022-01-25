@@ -98,7 +98,7 @@
           <p style="text-align:center;">Developed by Ayondip Jana, Copyright@2022, All rights reserverd</p>
           <br>
           <p style="text-align:center; text-transform:none;">
-            Release: v1.1.0
+            Release: v1.2.0
           </p>
         </div>
       </div>

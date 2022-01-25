@@ -2,27 +2,28 @@
 require('assets/require/top.php');
 authenticate();
 ?>
-<!-- <section class="notice" id="notice">
-          <div class="container">
-            <div class="didf">
-              <span class="badge green">Analytics added</span>
-              <br>
+<section class="notice" id="notice">
+    <div class="container">
+        <div class="didf">
+            <span class="badge green">Update | v1.1.0 -> v1.2.0</span>
+            <br>
             <p>
-              Hi, as we promised we have added the analytics service for free. You can find it in the navigation bar. Please also note that this is a paid service that we are providing for free, we will witdraw this service as soon as your website's free service end.
+                Hi, we have moved analytics to the dashbord, now you can view the analytics right in your dashbord.
+                Please view the update logs to know more.
             </p>
-            </div>
-            <div class="div">
-            <a href="analytics/">
-            <button class="btn1 d-flex-center-a-j">
-              View
-            </button>
+        </div>
+        <div class="div">
+            <a href="release/v1-2-0.html">
+                <button class="btn1 d-flex-center-a-j">
+                    View
+                </button>
             </a>
             <button class="btn2 .d-flex-center-a-j" onclick="n_seen()">
-              Ok
+                Ok
             </button>
-            </div>
-          </div>
-        </section>-->
+        </div>
+    </div>
+</section>
 <div class="row">
     <div class="col-xxl-6">
         <div class="card">
