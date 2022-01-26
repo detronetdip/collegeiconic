@@ -1,8 +1,0 @@
-
-# DO NOT REMOVE THIS LINE AND THE LINES BELOW PWPROTECTID:LxapfoFcsq
-AuthType Basic
-AuthName "Restricted Access"
-AuthUserFile /home/u686424295/domains/collegeiconic.com/public_html/d3h45sew5-t5r6-uy-io/.htpasswd
-Require valid-user
-# DO NOT REMOVE THIS LINE AND THE LINES ABOVE LxapfoFcsq:PWPROTECTID
-
