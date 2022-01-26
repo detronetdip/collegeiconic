@@ -10,9 +10,9 @@ var rawData={
         {
             "Top queries": "iconic.com",
             "Clicks": "0",
-            "Impressions": "2",
+            "Impressions": "3",
             "CTR": "0.00%",
-            "Position": "86.50"
+            "Position": "83.00"
         },
         {
             "Top queries": "free online councelling",
@@ -33,9 +33,9 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/",
             "Clicks": "45",
-            "Impressions": "90",
-            "CTR": "50.00%",
-            "Position": "8.12"
+            "Impressions": "91",
+            "CTR": "49.45%",
+            "Position": "8.87"
         },
         {
             "Top pages": "https://collegeiconic.com/",
@@ -145,6 +145,13 @@ var rawData={
             "Position": "67.50"
         },
         {
+            "Country": "Brazil",
+            "Clicks": "0",
+            "Impressions": "2",
+            "CTR": "0.00%",
+            "Position": "85.00"
+        },
+        {
             "Country": "Philippines",
             "Clicks": "0",
             "Impressions": "1",
@@ -166,13 +173,6 @@ var rawData={
             "Position": "79.00"
         },
         {
-            "Country": "Brazil",
-            "Clicks": "0",
-            "Impressions": "1",
-            "CTR": "0.00%",
-            "Position": "94.00"
-        },
-        {
             "Country": "United Kingdom",
             "Clicks": "0",
             "Impressions": "1",
@@ -191,12 +191,19 @@ var rawData={
         {
             "Device": "Desktop",
             "Clicks": "8",
-            "Impressions": "56",
-            "CTR": "14.29%",
-            "Position": "10.29"
+            "Impressions": "57",
+            "CTR": "14.04%",
+            "Position": "11.44"
         }
     ],
     "Dates": [
+        {
+            "Date": "2022-01-24",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "76.00"
+        },
         {
             "Date": "2022-01-23",
             "Clicks": "3",

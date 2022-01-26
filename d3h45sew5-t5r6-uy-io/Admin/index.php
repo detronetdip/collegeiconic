@@ -5,15 +5,14 @@ authenticate();
 <section class="notice" id="notice">
     <div class="container">
         <div class="didf">
-            <span class="badge green">Update | v1.1.0 -> v1.2.0</span>
+            <span class="badge green">Update | v1.2.0 -> v1.2.1</span>
             <br>
             <p>
-                Hi, we have moved analytics to the dashbord, now you can view the analytics right in your dashbord.
-                Please view the update logs to know more.
+                Hi, we have pushed an update please view the changes log for more information.
             </p>
         </div>
         <div class="div">
-            <a href="release/v1-2-0.html">
+            <a href="release/v1-2-1.html">
                 <button class="btn1 d-flex-center-a-j">
                     View
                 </button>
@@ -119,11 +118,11 @@ authenticate();
 <!-- analytics -->
 <div class="selectionrow">
     <div class="wrap">
-        <span>Updated on 25/01/2022 at 12:34</span>
+        <span>Updated on 26/01/2022 at 21:14</span>
         <span>Free till 06/05/2020</span>
     </div>
     <div class="sectbord" style="background-color:transparent;">
-        <div class="card dts_">
+        <div class="card dts_" onclick="viewClicks_()">
             <div class="image">
                 <span id="ttlclk">23</span>
             </div>
@@ -131,7 +130,7 @@ authenticate();
                 <span>Clicks</span>
             </div>
         </div>
-        <div class="card cts_">
+        <div class="card cts_" onclick="viewImp_()">
             <div class="image">
                 <span id="ttlimp">24</span>
             </div>
@@ -139,7 +138,7 @@ authenticate();
                 <span>Impression</span>
             </div>
         </div>
-        <div class="card dvs_">
+        <div class="card dvs_" onclick="viewCtr_()">
             <div class="image">
                 <span id="ttlctr">12%</span>
             </div>
@@ -147,9 +146,9 @@ authenticate();
                 <span>CTR</span>
             </div>
         </div>
-        <div class="card pgs_">
+        <div class="card pgs_" onclick="viewPs_()">
             <div class="image">
-                <span id="ttlps">1.3</span>
+                <span id="ttlps">5</span>
             </div>
             <div class="write">
                 <span>Position</span>
