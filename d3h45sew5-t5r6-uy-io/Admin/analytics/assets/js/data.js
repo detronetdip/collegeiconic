@@ -33,9 +33,9 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/",
             "Clicks": "45",
-            "Impressions": "91",
-            "CTR": "49.45%",
-            "Position": "8.87"
+            "Impressions": "93",
+            "CTR": "48.39%",
+            "Position": "8.72"
         },
         {
             "Top pages": "https://collegeiconic.com/",
@@ -47,9 +47,9 @@ var rawData={
         {
             "Top pages": "https://collegeiconic.com/viewColleges.php?l=edu",
             "Clicks": "2",
-            "Impressions": "23",
-            "CTR": "8.70%",
-            "Position": "1.39"
+            "Impressions": "24",
+            "CTR": "8.33%",
+            "Position": "1.42"
         },
         {
             "Top pages": "https://collegeiconic.com/applynow.php?c=GPS Institute of Agricultural \nManagement",
@@ -82,16 +82,16 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/#cat",
             "Clicks": "0",
-            "Impressions": "38",
+            "Impressions": "40",
             "CTR": "0.00%",
-            "Position": "1.00"
+            "Position": "1.05"
         },
         {
             "Top pages": "https://www.collegeiconic.com/#slf",
             "Clicks": "0",
-            "Impressions": "38",
+            "Impressions": "40",
             "CTR": "0.00%",
-            "Position": "1.00"
+            "Position": "1.05"
         },
         {
             "Top pages": "https://collegeiconic.com/t&c.php",
@@ -103,9 +103,9 @@ var rawData={
         {
             "Top pages": "https://collegeiconic.com/viewColleges.php?l=agr",
             "Clicks": "0",
-            "Impressions": "6",
+            "Impressions": "7",
             "CTR": "0.00%",
-            "Position": "2.83"
+            "Position": "7.14"
         },
         {
             "Top pages": "https://collegeiconic.com/index.php",
@@ -126,8 +126,8 @@ var rawData={
         {
             "Country": "India",
             "Clicks": "91",
-            "Impressions": "149",
-            "CTR": "61.07%",
+            "Impressions": "150",
+            "CTR": "60.67%",
             "Position": "2.05"
         },
         {
@@ -152,6 +152,13 @@ var rawData={
             "Position": "85.00"
         },
         {
+            "Country": "Malaysia",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "3.00"
+        },
+        {
             "Country": "Philippines",
             "Clicks": "0",
             "Impressions": "1",
@@ -164,6 +171,13 @@ var rawData={
             "Impressions": "1",
             "CTR": "0.00%",
             "Position": "11.00"
+        },
+        {
+            "Country": "Pakistan",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "33.00"
         },
         {
             "Country": "Poland",
@@ -184,19 +198,26 @@ var rawData={
         {
             "Device": "Mobile",
             "Clicks": "85",
-            "Impressions": "104",
-            "CTR": "81.73%",
-            "Position": "1.48"
+            "Impressions": "105",
+            "CTR": "80.95%",
+            "Position": "1.50"
         },
         {
             "Device": "Desktop",
             "Clicks": "8",
-            "Impressions": "57",
-            "CTR": "14.04%",
-            "Position": "11.44"
+            "Impressions": "59",
+            "CTR": "13.56%",
+            "Position": "11.63"
         }
     ],
     "Dates": [
+        {
+            "Date": "2022-01-25",
+            "Clicks": "0",
+            "Impressions": "3",
+            "CTR": "0.00%",
+            "Position": "12.33"
+        },
         {
             "Date": "2022-01-24",
             "Clicks": "0",
