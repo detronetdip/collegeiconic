@@ -3,9 +3,9 @@ var rawData={
         {
             "Top queries": "iconic college",
             "Clicks": "0",
-            "Impressions": "3",
+            "Impressions": "4",
             "CTR": "0.00%",
-            "Position": "10.00"
+            "Position": "9.25"
         },
         {
             "Top queries": "iconic.com",
@@ -33,9 +33,9 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/",
             "Clicks": "45",
-            "Impressions": "93",
-            "CTR": "48.39%",
-            "Position": "8.72"
+            "Impressions": "94",
+            "CTR": "47.87%",
+            "Position": "8.70"
         },
         {
             "Top pages": "https://collegeiconic.com/",
@@ -126,9 +126,9 @@ var rawData={
         {
             "Country": "India",
             "Clicks": "91",
-            "Impressions": "150",
-            "CTR": "60.67%",
-            "Position": "2.05"
+            "Impressions": "151",
+            "CTR": "60.26%",
+            "Position": "2.08"
         },
         {
             "Country": "Bahrain",
@@ -198,9 +198,9 @@ var rawData={
         {
             "Device": "Mobile",
             "Clicks": "85",
-            "Impressions": "105",
-            "CTR": "80.95%",
-            "Position": "1.50"
+            "Impressions": "106",
+            "CTR": "80.19%",
+            "Position": "1.55"
         },
         {
             "Device": "Desktop",
@@ -211,6 +211,13 @@ var rawData={
         }
     ],
     "Dates": [
+        {
+            "Date": "2022-01-26",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "7.00"
+        },
         {
             "Date": "2022-01-25",
             "Clicks": "0",
