@@ -2,7 +2,7 @@
 require('assets/require/top.php');
 authenticate();
 ?>
-<section class="notice" id="notice">
+<!-- <section class="notice" id="notice">
     <div class="container">
         <div class="didf">
             <span class="badge green">Update | v1.2.0 -> v1.2.1</span>
@@ -22,7 +22,7 @@ authenticate();
             </button>
         </div>
     </div>
-</section>
+</section> -->
 <div class="row">
     <div class="col-xxl-6">
         <div class="card">
@@ -118,7 +118,7 @@ authenticate();
 <!-- analytics -->
 <div class="selectionrow">
     <div class="wrap">
-        <span>Updated on 28/01/2022 at 01:14</span>
+        <span>Updated on 31/01/2022 at 12:24</span>
         <span>Free till 06/05/2020</span>
     </div>
     <div class="sectbord" style="background-color:transparent;">

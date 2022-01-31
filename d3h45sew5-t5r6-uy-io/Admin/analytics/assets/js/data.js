@@ -3,9 +3,9 @@ var rawData={
         {
             "Top queries": "iconic college",
             "Clicks": "0",
-            "Impressions": "4",
+            "Impressions": "5",
             "CTR": "0.00%",
-            "Position": "9.25"
+            "Position": "9.60"
         },
         {
             "Top queries": "iconic.com",
@@ -32,24 +32,24 @@ var rawData={
     "Pages": [
         {
             "Top pages": "https://www.collegeiconic.com/",
-            "Clicks": "45",
-            "Impressions": "94",
-            "CTR": "47.87%",
-            "Position": "8.70"
+            "Clicks": "46",
+            "Impressions": "102",
+            "CTR": "45.10%",
+            "Position": "8.37"
         },
         {
             "Top pages": "https://collegeiconic.com/",
             "Clicks": "45",
-            "Impressions": "87",
-            "CTR": "51.72%",
-            "Position": "1.72"
+            "Impressions": "88",
+            "CTR": "51.14%",
+            "Position": "1.78"
         },
         {
             "Top pages": "https://collegeiconic.com/viewColleges.php?l=edu",
             "Clicks": "2",
-            "Impressions": "24",
-            "CTR": "8.33%",
-            "Position": "1.42"
+            "Impressions": "25",
+            "CTR": "8.00%",
+            "Position": "1.44"
         },
         {
             "Top pages": "https://collegeiconic.com/applynow.php?c=GPS Institute of Agricultural \nManagement",
@@ -82,14 +82,14 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/#cat",
             "Clicks": "0",
-            "Impressions": "40",
+            "Impressions": "41",
             "CTR": "0.00%",
             "Position": "1.05"
         },
         {
             "Top pages": "https://www.collegeiconic.com/#slf",
             "Clicks": "0",
-            "Impressions": "40",
+            "Impressions": "41",
             "CTR": "0.00%",
             "Position": "1.05"
         },
@@ -125,10 +125,10 @@ var rawData={
     "Countries": [
         {
             "Country": "India",
-            "Clicks": "91",
-            "Impressions": "151",
-            "CTR": "60.26%",
-            "Position": "2.08"
+            "Clicks": "92",
+            "Impressions": "152",
+            "CTR": "60.53%",
+            "Position": "2.07"
         },
         {
             "Country": "Bahrain",
@@ -138,11 +138,18 @@ var rawData={
             "Position": "1.00"
         },
         {
+            "Country": "Bangladesh",
+            "Clicks": "0",
+            "Impressions": "6",
+            "CTR": "0.00%",
+            "Position": "4.00"
+        },
+        {
             "Country": "United States",
             "Clicks": "0",
-            "Impressions": "2",
+            "Impressions": "3",
             "CTR": "0.00%",
-            "Position": "67.50"
+            "Position": "48.67"
         },
         {
             "Country": "Brazil",
@@ -197,20 +204,41 @@ var rawData={
     "Devices": [
         {
             "Device": "Mobile",
-            "Clicks": "85",
-            "Impressions": "106",
-            "CTR": "80.19%",
-            "Position": "1.55"
+            "Clicks": "86",
+            "Impressions": "113",
+            "CTR": "76.11%",
+            "Position": "1.67"
         },
         {
             "Device": "Desktop",
             "Clicks": "8",
-            "Impressions": "59",
-            "CTR": "13.56%",
-            "Position": "11.63"
+            "Impressions": "60",
+            "CTR": "13.33%",
+            "Position": "11.62"
         }
     ],
     "Dates": [
+        {
+            "Date": "2022-01-29",
+            "Clicks": "0",
+            "Impressions": "7",
+            "CTR": "0.00%",
+            "Position": "5.00"
+        },
+        {
+            "Date": "2022-01-28",
+            "Clicks": "1",
+            "Impressions": "1",
+            "CTR": "100.00%",
+            "Position": "1.00"
+        },
+        {
+            "Date": "2022-01-27",
+            "Clicks": "0",
+            "Impressions": "0",
+            "CTR": "0.00%",
+            "Position": "0.00"
+        },
         {
             "Date": "2022-01-26",
             "Clicks": "0",
