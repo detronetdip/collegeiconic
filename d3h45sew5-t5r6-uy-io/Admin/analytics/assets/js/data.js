@@ -10,9 +10,9 @@ var rawData={
         {
             "Top queries": "iconic.com",
             "Clicks": "0",
-            "Impressions": "3",
+            "Impressions": "4",
             "CTR": "0.00%",
-            "Position": "83.00"
+            "Position": "79.25"
         },
         {
             "Top queries": "free online councelling",
@@ -33,16 +33,16 @@ var rawData={
         {
             "Top pages": "https://www.collegeiconic.com/",
             "Clicks": "46",
-            "Impressions": "102",
-            "CTR": "45.10%",
+            "Impressions": "103",
+            "CTR": "44.66%",
             "Position": "8.37"
         },
         {
             "Top pages": "https://collegeiconic.com/",
             "Clicks": "45",
-            "Impressions": "88",
-            "CTR": "51.14%",
-            "Position": "1.78"
+            "Impressions": "89",
+            "CTR": "50.56%",
+            "Position": "2.53"
         },
         {
             "Top pages": "https://collegeiconic.com/viewColleges.php?l=edu",
@@ -173,6 +173,13 @@ var rawData={
             "Position": "5.00"
         },
         {
+            "Country": "New Zealand",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "8.00"
+        },
+        {
             "Country": "Nigeria",
             "Clicks": "0",
             "Impressions": "1",
@@ -185,6 +192,13 @@ var rawData={
             "Impressions": "1",
             "CTR": "0.00%",
             "Position": "33.00"
+        },
+        {
+            "Country": "Mexico",
+            "Clicks": "0",
+            "Impressions": "1",
+            "CTR": "0.00%",
+            "Position": "68.00"
         },
         {
             "Country": "Poland",
@@ -212,12 +226,19 @@ var rawData={
         {
             "Device": "Desktop",
             "Clicks": "8",
-            "Impressions": "60",
-            "CTR": "13.33%",
-            "Position": "11.62"
+            "Impressions": "62",
+            "CTR": "12.90%",
+            "Position": "12.47"
         }
     ],
     "Dates": [
+        {
+            "Date": "2022-01-30",
+            "Clicks": "0",
+            "Impressions": "2",
+            "CTR": "0.00%",
+            "Position": "38.00"
+        },
         {
             "Date": "2022-01-29",
             "Clicks": "0",

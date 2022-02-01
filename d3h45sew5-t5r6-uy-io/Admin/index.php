@@ -118,7 +118,7 @@ authenticate();
 <!-- analytics -->
 <div class="selectionrow">
     <div class="wrap">
-        <span>Updated on 31/01/2022 at 12:24</span>
+        <span>Updated on 02/02/2022 at 00:24</span>
         <span>Free till 06/05/2020</span>
     </div>
     <div class="sectbord" style="background-color:transparent;">
@@ -204,7 +204,9 @@ authenticate();
     <div id="chart_div" class="graph"></div>
 </div>
 <section class="datas">
-    <div class="dta">
+    <div class="dta" id="clp">
+        <!-- <button onclick="d()">up</button>
+        <button onclick="de()">down</button> -->
         <table cellspacing="0">
             <thead>
                 <th id="cp">Date</th>
@@ -221,6 +223,17 @@ authenticate();
 </section>
 <script type="module" src="analytics/assets/js/script.js"></script>
 <script src="analytics/assets/js/app.js"></script>
+<!-- <script>
+function d() {
+    var e = document.getElementById("clp")
+    e.style.height = 113 + "px";
+}
+
+function de() {
+    var e = document.getElementById("clp")
+    e.style.height = "fit-content";
+}
+</script> -->
 <?php 
 require('assets/require/foot.php');
 ?>
