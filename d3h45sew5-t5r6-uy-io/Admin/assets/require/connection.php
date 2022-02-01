@@ -60,10 +60,10 @@ function application_detail($con,$id){
 }
 function redirect($path){
 	?>
-        <script>
-            window.location.href = '<?php echo $path; ?>';
-        </script>
-    <?php
+<script>
+window.location.href = '<?php echo $path; ?>';
+</script>
+<?php
 }
 function authenticate(){
 	if(!isset($_SESSION['ADMIN_LOGIN'])){
