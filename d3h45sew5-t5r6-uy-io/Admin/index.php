@@ -148,7 +148,7 @@ authenticate();
         </div>
         <div class="card pgs_" onclick="viewPs_()">
             <div class="image">
-                <span id="ttlps">5.3</span>
+                <span id="ttlps">5</span>
             </div>
             <div class="write">
                 <span>Position</span>
