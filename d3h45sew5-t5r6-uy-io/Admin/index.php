@@ -118,7 +118,7 @@ authenticate();
 <!-- analytics -->
 <div class="selectionrow">
     <div class="wrap">
-        <span>Updated on 11/02/2022 at 16:39</span>
+        <span>Updated on 12/02/2022 at 10:39</span>
         <span>Free till 06/05/2020</span>
     </div>
     <div class="sectbord" style="background-color:transparent;">
