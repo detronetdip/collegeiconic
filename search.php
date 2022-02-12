@@ -36,6 +36,16 @@ if(isset($_GET['q'])){
 
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <title>Collegeiconic | View Colleges</title>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-6P8NVD2XFG');
+    </script>
   </head>
   <body>
     <div class="formbox" id="frmbx">

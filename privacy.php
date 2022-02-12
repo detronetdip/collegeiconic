@@ -24,6 +24,16 @@
 
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <title>Collegeiconic | Privacy Policy</title>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-6P8NVD2XFG');
+    </script>
   </head>
   <body>
     <div class="formbox" id="frmbx">
