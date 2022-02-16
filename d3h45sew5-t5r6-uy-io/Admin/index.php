@@ -118,7 +118,7 @@ authenticate();
 <!-- analytics -->
 <div class="selectionrow">
     <div class="wrap">
-        <span>Updated on 13/02/2022 at 12:39</span>
+        <span>Updated on 16/02/2022 at 12:39</span>
         <span>Free till 06/05/2020</span>
     </div>
     <div class="sectbord" style="background-color:transparent;">
@@ -148,7 +148,7 @@ authenticate();
         </div>
         <div class="card pgs_" onclick="viewPs_()">
             <div class="image">
-                <span id="ttlps">4.9</span>
+                <span id="ttlps">5.1</span>
             </div>
             <div class="write">
                 <span>Position</span>
