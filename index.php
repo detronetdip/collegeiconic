@@ -641,7 +641,7 @@
                         </div>
                         <div class="right">
                             <ul class="ul">
-                                <li class="links"><a href="#cat">Colleges</a></li>
+                                <li class="links"><a href="#cat">Ayondip</a></li>
                                 <li class="links"><a href="#slf">Loan</a></li>
                                 <li class="links"><a href="#sa">Countries</a></li>
                                 <li class="links"><a href="#ltq">Latest Updates</a></li>
