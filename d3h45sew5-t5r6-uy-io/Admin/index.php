@@ -76,7 +76,7 @@ authenticate();
                         <h2 class="num-text text-black font-w700">
                             <?php echo countApplications($con); ?>
                         </h2>
-                        <span class="fs-14">Ayondip</span>
+                        <span class="fs-14">Applications</span>
                     </div>
                     <svg class="primary-icon" width="36" height="36" viewBox="0 0 36 36" fill="none"
                         xmlns="http://www.w3.org/2000/svg">
