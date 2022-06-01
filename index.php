@@ -26,7 +26,7 @@
     <meta property="og:site_name" content="Collegeiconic">
     <meta property="og:image" content="https://www.collegeiconic.com/assets/images/svg/collage ideal.png">
     <meta name="google-site-verification" content="tjbEuVeYIueoiAl6fotMJqO_Snz2PurvLne9C_D75h8">
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/style.csss" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
